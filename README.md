@@ -1,4 +1,4 @@
-# Atomic Agents Learn
+# Atomic Agents: Learn
 
 This repository is dedicated to learning and exploring the Atomic Agents framework. The goal is to provide a comprehensive guide and set of examples to help users understand and utilize the Atomic Agents framework for building AI agents.
 
