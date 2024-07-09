@@ -29,4 +29,5 @@ The Atomic Agents framework is designed to be modular, extensible, and easy to u
 If you want to use the notebooks on colab instead of localy then change the url like this 
 
 Github URL: https://github.com/w3bwizart/Atomic_Agents_Learn/blob/main/notebooks/A_deep_dive_into_atomic_agents-BaseChatAgent.ipynb
+
 Colab URL:  https://colab.research.google.com/github/w3bwizart/Atomic_Agents_Learn/blob/main/notebooks/A_deep_dive_into_atomic_agents-BaseChatAgent.ipynb
