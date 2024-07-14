@@ -10,9 +10,11 @@ The Atomic Agents framework is designed to be modular, extensible, and easy to u
 
 - **`notebooks/`**: Contains Jupyter notebooks with detailed examples and tutorials.
   - **[`A_deep_dive_into_atomic_agents-BaseAgent.ipynb`](https://github.com/w3bwizart/Atomic_Agents_Learn/blob/main/notebooks/A_deep_dive_into_atomic_agents-BaseAgent.ipynb)**: A deep dive into the BaseAgent component of the Atomic Agents framework.
+  - **[`A_deep_dive_into_atomic_agents-BaseTool.ipynb`](https://github.com/w3bwizart/Atomic_Agents_Learn/blob/main/notebooks/A_deep_dive_into_atomic_agents-BaseTool.ipynb)**: A deep dive into the BaseTool component of the Atomic Agents framework.
 
 - **`scripts/`**: Contains the complete striped scripts from the notebooks
   - **[`A_deep_dive_into_atomic_agents-BaseAgent.py`](https://github.com/w3bwizart/Atomic_Agents_Learn/blob/main/scripts/A_deep_dive_into_atomic_agents-BaseAgent.py)** 
+   - **[`A_deep_dive_into_atomic_agents-BaseTool.py`](https://github.com/w3bwizart/Atomic_Agents_Learn/blob/main/scripts/A_deep_dive_into_atomic_agents-BaseTool.py)** 
 
 ## Getting Started
 
