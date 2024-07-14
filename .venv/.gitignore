@@ -1,8 +1,0 @@
-# Exclude the .env file
-.env
-
-# Exclude the .venv/ folder
-.venv/
-
-# Exclude the .vscode/ folder
-.vscode/
