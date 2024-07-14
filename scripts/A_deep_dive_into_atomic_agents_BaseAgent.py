@@ -1,5 +1,5 @@
 # For a detailed explanation of this code checkout the notebook:
-# /notebooks/A_deep_dive_into_atomic_agents-BaseAgent.ipynb
+# /notebooks/A_deep_dive_into_atomic_agents_BaseAgent.ipynb
 
 from dotenv import load_dotenv
 import os

@@ -1,5 +1,5 @@
 # For a detailed explanation of this code checkout the notebook:
-# /notebooks/A_deep_dive_into_atomic_agents-BaseTool.ipynb
+# /notebooks/A_deep_dive_into_atomic_agents_BaseTool.ipynb
 
 from pydantic import Field
 from rich.console import Console
