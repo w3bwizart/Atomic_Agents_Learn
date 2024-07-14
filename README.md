@@ -9,7 +9,10 @@ The Atomic Agents framework is designed to be modular, extensible, and easy to u
 ## Repository Structure
 
 - **`notebooks/`**: Contains Jupyter notebooks with detailed examples and tutorials.
-  - **[`A_deep_dive_into_atomic_agents-BaseChatAgent.ipynb`](https://github.com/w3bwizart/Atomic_Agents_Learn/blob/main/A_deep_dive_into_atomic_agents-BaseChatAgent.ipynb)**: A deep dive into the BaseChatAgent component of the Atomic Agents framework.
+  - **[`A_deep_dive_into_atomic_agents-BaseChatAgent.ipynb`](https://github.com/w3bwizart/Atomic_Agents_Learn/blob/main/notebooks/A_deep_dive_into_atomic_agents-BaseAgent.ipynb)**: A deep dive into the BaseChatAgent component of the Atomic Agents framework.
+
+- **`scripts/`**: Contains the complete striped scripts from the notebooks
+  - **[`A_deep_dive_into_atomic_agents-BaseAgent.py`](https://github.com/w3bwizart/Atomic_Agents_Learn/blob/main/scripts/A_deep_dive_into_atomic_agents-BaseAgent.py)** 
 
 ## Getting Started
 
@@ -26,8 +29,15 @@ The Atomic Agents framework is designed to be modular, extensible, and easy to u
    cd Atomic_Agents_Learn
 
 ## Google Colab
-If you want to use the notebooks on colab instead of localy then replace `https://github.com` with `https://colab.research.google.com/github`
+If you want to use the notebooks on colab instead of localy then replace
 
-Github URL: https://github.com/w3bwizart/Atomic_Agents_Learn/blob/main/notebooks/A_deep_dive_into_atomic_agents-BaseChatAgent.ipynb
+ `https://github.com` 
+ 
+ with 
+ 
+ `https://colab.research.google.com/github`
 
-Colab URL:  https://colab.research.google.com/github/w3bwizart/Atomic_Agents_Learn/blob/main/notebooks/A_deep_dive_into_atomic_agents-BaseChatAgent.ipynb
+
+Github URL: https://github.com/w3bwizart/Atomic_Agents_Learn/blob/main/notebooks/A_deep_dive_into_atomic_agents-BaseAgent.ipynb
+
+Colab URL:  https://colab.research.google.com/github/w3bwizart/Atomic_Agents_Learn/blob/main/notebooks/A_deep_dive_into_atomic_agents-BaseAgent.ipynb
